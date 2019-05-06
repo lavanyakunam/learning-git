@@ -1,2 +1,6 @@
 hi
 Merge testing
+how are you
+good
+bye 
+
